@@ -142,4 +142,7 @@
             </fieldset>
         </fields>
     </config>
+    <updateservers>
+        <server type="extension" priority="1" name="PLG_SYSTEM_KICKCLEANHEAD">https://raw.githubusercontent.com/nielsnuebel/plg_system_kickcleanhead/master/update.xml</server>
+    </updateservers>
 </extension>
