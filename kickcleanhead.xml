@@ -11,7 +11,7 @@
     <description>PLG_SYSTEM_KICKCLEANHEAD_XML_DESCRIPTION</description>
     <files>
         <file plugin="kickcleanhead">kickcleanhead.php</file>
-        <file>kickcleanhead.cml</file>
+        <file>kickcleanhead.xml</file>
         <folder>language</folder>
     </files>
     <config>
